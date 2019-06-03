@@ -18,6 +18,8 @@ use the movie-this argument along with a movie name to get information about the
 <br>
 to input through the text file, type one of the above listed arguments (concert-this, spotify-this-song or movie-this) along with the artist song or movie seperated by a comma 
 <br>
+![](liribot9.png)
+
 ![](liribot7.png)
 
 ![](liribot8.png)
